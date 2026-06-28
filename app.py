@@ -19,7 +19,7 @@ data = [
     ["Beras", "Beras BMW", "1 Karung (5 Kg)", 80000],
     ["Beras", "Beras Pokea", "1 Karung (5 Kg)", 85000],
     ["Beras", "Beras SPHP", "1 Karung (5 Kg)", 65000],
-    ["Beras", "Beras Karung Bening", "1 Liter", 15000],
+    ["Beras", "Beras Karung Bening", "25kg", 405000],
     
 
     # MINYAK
