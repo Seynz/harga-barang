@@ -25,6 +25,7 @@ data = [
     # MINYAK
     ["Minyak Goreng", "Minyak Bimoli", "1 Liter", 0],
     ["Minyak Goreng", "Minyak Sabrina", "1 Liter", 0],
+    ["Minyak Goreng", "Minyak Fortune", "1 Liter", 0],
     
 
     # GULA
