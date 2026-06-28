@@ -33,8 +33,10 @@ data = [
     ["Gula", "Gula Aren", "1/2 Pasang", 10000],
     
     # TELUR
-    ["Telur", "Telur Ayam", "1 Biji", 2000],
-    ["Telur", "Telur Ayam", "1 Rak", 60000],
+    ["Telur", "Telur Ayam Kecil", "1 Butir", 2000],
+    ["Telur", "Telur Ayam Kecil", "1 Rak", 60000],
+    ["Telur", "Telur Ayam Besar", "1 Butir", 2500],
+    ["Telur", "Telur Ayam Besar", "1 Rak", 65000],
 
     # Tissue
     ["Tissue", "Larrist", "1 Bungkus", 10000],
