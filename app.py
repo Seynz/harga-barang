@@ -16,9 +16,9 @@ st.title("🛒 Daftar Harga")
 data = [
     # BERAS
     ["Beras", "Beras Curah", "1 Liter", 0],
-    ["Beras", "BMW", "1 Karung (5 Kg)", 0],
-    ["Beras", "Pokea", "1 Karung (5 Kg)", 0],
-    ["Beras", "SPHP", "1 Karung (5 Kg)", 0],
+    ["Beras", "Beras BMW", "1 Karung (5 Kg)", 80000],
+    ["Beras", "Beras Pokea", "1 Karung (5 Kg)", 85000],
+    ["Beras", "Beras SPHP", "1 Karung (5 Kg)", 65000],
     ["Beras", "Beras Karung Merah", "25 Kg", 0],
     
 
