@@ -15,25 +15,26 @@ st.title("🛒 Daftar Harga")
 
 data = [
     # BERAS
-    ["Beras", "Beras Curah", "1 Liter", 0],
+    ["Beras", "Beras Curah", "1 Liter", 14000],
     ["Beras", "Beras BMW", "1 Karung (5 Kg)", 80000],
     ["Beras", "Beras Pokea", "1 Karung (5 Kg)", 85000],
     ["Beras", "Beras SPHP", "1 Karung (5 Kg)", 65000],
-    ["Beras", "Beras Karung Merah", "25 Kg", 0],
+    ["Beras", "Beras Karung Bening", "1 Liter", 15000],
     
 
     # MINYAK
-    ["Minyak Goreng", "Minyak Bimoli", "1 Liter", 0],
-    ["Minyak Goreng", "Minyak Sabrina", "1 Liter", 0],
-    ["Minyak Goreng", "Minyak Fortune", "1 Liter", 0],
+    ["Minyak Goreng", "Minyak Bimoli", "1 Liter", 28000],
+    ["Minyak Goreng", "Minyak Sabrina", "900 ml", 25000],
+    ["Minyak Goreng", "Minyak Fortune", "1 Liter", 28000],
     
 
     # GULA
     ["Gula", "Gula Aren", "1 Pasang", 20000],
+    ["Gula", "Gula Aren", "1/2 Pasang", 10000],
     
     # TELUR
     ["Telur", "Telur Ayam", "1 Biji", 2000],
-    ["Telur", "Telur Ayam", "1 Rak", 65000],
+    ["Telur", "Telur Ayam", "1 Rak", 60000],
 
     # Tissue
     ["Tissue", "Larrist", "1 Bungkus", 10000],
